@@ -1,0 +1,1 @@
+SELECT DISTINCT Dept_name FROM employees;

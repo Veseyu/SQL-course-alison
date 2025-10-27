@@ -1,0 +1,1 @@
+SELECT Name AS Employee, Salary AS Pay FROM employees;
