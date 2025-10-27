@@ -1,3 +1,11 @@
+-- ===========================================================
+-- File: 03_insert_employees.sql
+-- Description: Inserts sample data into the 'employees' table.
+-- Author: Dawid Łukaszewski
+-- Course: Alison SQL Intermediate
+-- ===========================================================
+
+--  Insert sample employee records into the table
 INSERT INTO `employees` VALUES
 ('16333', 'Ahmed', 'Marketing', 70000.00),
 ('18333', 'Musabbir', 'Software', 40000.00),
